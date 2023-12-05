@@ -1,0 +1,33 @@
+/* Styles for the back-to-top button below the footer */
+.back-to-top-below-footer {
+  display: block;
+  width: 120px; /* Adjust width as needed */
+  text-align: center;
+  padding: 10px;
+  margin: 50px auto; /* Center the button and add space */
+  border: 2px solid #333; /* Border style */
+  background-color: #333; /* Background color */
+  color: white; /* Text color */
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.back-to-top-below-footer:hover {
+  background-color: #555; /* Change background color on hover */
+}
+
+
+/* Style for the button to Google Drive of the paper */
+.button {
+  display: block;
+  width: 200px;
+  margin: 50px auto;
+  padding: 0px;
+  text-align: center;
+  background-color: transparent; /* Set background to transparent */
+  color: #007bff; /* Text color */
+  border: 2px solid #007bff; /* Add a border */
+  text-decoration: none;
+  border-radius: 5px;
+}
+
