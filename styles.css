@@ -31,3 +31,22 @@
   border-radius: 5px;
 }
 
+
+.resume-section {
+  text-align: center; /* Center-align the content */
+}
+
+.centered-content {
+  display: inline-block; /* Ensures it's treated as a block element while being inline */
+  text-align: left; /* Resets text alignment for child elements */
+}
+
+.resume-image {
+  display: block; /* Ensures the image is a block element */
+  margin: 0 auto; /* Auto margin horizontally centers the image */
+}
+
+.button.small-width {
+  margin-top: 10px; /* Adjust button margin-top as needed */
+}
+
